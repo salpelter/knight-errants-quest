@@ -1,0 +1,9 @@
+AISTATE = {
+	IDLE = 1,
+	WANDER = 2,
+	CHASE = 3,
+	PATROL = 4,
+	ATTACK = 5
+}
+
+return AISTATE
